@@ -1,0 +1,8 @@
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/24_10_10.dir
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/24_10_10_autogen_timestamp_deps.dir
+D:/QT/Temp/24_10_10/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/24_10_10_autogen.dir
